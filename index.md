@@ -5,8 +5,6 @@
 layout: home
 ---
 
-## Hi, I'm Juan :-)
-
 This is my personal website, which is currently under construction. Check out the "About Me" section to learn... well, you know.
 <br/>
 <br/>
