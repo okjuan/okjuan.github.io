@@ -3,16 +3,17 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Hi, I'm Juan
 ---
 
-## Now
+## What I'm Doing Now
 * Software Engineering for Microsoft's newest Office app, Loop
 * Writing and publishing on [okjuan.medium.com](https://okjuan.medium.com) and [okjuan.substack.com](https://okjuan.substack.com)
 * Working on a [suite of tools](https://github.com/okjuan/music-lib-bot) for managing my Spotify music library
 
-(Updated Feb 8 2023)
+(Last Modified: {% last_modified_at %})
 
-## Resume
+## What I've Done Before
 ### Work Experience
 * Software Engineer at Microsoft since September 2019
 * Software Engineering Intern at

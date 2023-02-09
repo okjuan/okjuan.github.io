@@ -12,13 +12,6 @@ gem "jekyll", "~> 3.8.5"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 
-# I want minima version 3+, which is not available on
-# reference:
-# - https://github.com/jekyll/minima/issues/454
-# - https://stackoverflow.com/questions/68518590/does-minima-dark-skin-work-on-github-ages
-gem "jekyll-remote-theme"
-gem "jekyll-seo-tag"
-
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
@@ -26,6 +19,15 @@ gem "jekyll-seo-tag"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
+
+  # I want minima version 3+, which is not available on
+  # reference:
+  # - https://github.com/jekyll/minima/issues/454
+  # - https://stackoverflow.com/questions/68518590/does-minima-dark-skin-work-on-github-ages
+  gem "jekyll-remote-theme"
+  gem "jekyll-seo-tag"
+
+  gem "jekyll-last-modified-at"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
