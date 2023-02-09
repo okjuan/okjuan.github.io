@@ -26,5 +26,3 @@ title: Hi, I'm Juan
 * Made [lots of playlists](https://open.spotify.com/user/jcgalleg)
 * Placed 3rd in the expert competition bracket at [Battlesnake](https://play.battlesnake.com/) 2018 with my friend [Nick](https://github.com/NicholasKobald)
 * Made [hip hop beats](https://soundcloud.com/baba-guano)
-
-(Last Modified: {% last_modified_at %})
