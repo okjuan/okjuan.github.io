@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 title: Hi, I'm Juan
 ---
@@ -21,13 +18,13 @@ title: Hi, I'm Juan
 * Taught C & C++ programming in labs for [CSC 116](https://heat.csc.uvic.ca/coview/outline/2018/Fall/CSC/116) and [CSC 111](https://heat.csc.uvic.ca/coview/outline/2019/Spring/CSC/111) at UVic
 
 ### Education
-* Computer Science at [UVic](https://www.uvic.ca/). Almost a minor in Math.
+* Computer Science at [UVic](https://en.wikipedia.org/wiki/University_of_Victoria). Almost a minor in Math.
 
 ### Past Projects
 * "Music Knowledge" [app](https://github.com/okjuan/muze)
-* Organizing and leading workshops for the [UVic Web Development and Design club](https://www.facebook.com/UVicWebDev/?fref=gs&dti=216915481806345&hc_location=group_dialog)
-* Making [lots of playlists](https://open.spotify.com/user/jcgalleg).
+* Organizing and leading workshops for the [UVic Web Development and Design club](https://github.com/uvicwebdev)
+* Made [lots of playlists](https://open.spotify.com/user/jcgalleg)
 * Placed 3rd in the expert competition bracket at [Battlesnake](https://www.battlesnake.io/) 2018 with my friend [Nick](https://github.com/NicholasKobald)
-* Made music, some of which I posted on [SoundCloud](https://soundcloud.com/baba-guano)
+* Made [hip hop beats](https://soundcloud.com/baba-guano)
 
 (Last Modified: {% last_modified_at %})
