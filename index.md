@@ -24,7 +24,7 @@ title: Hi, I'm Juan
 * "Music Knowledge" [app](https://github.com/okjuan/muze)
 * Organizing and leading workshops for the [UVic Web Development and Design club](https://github.com/uvicwebdev)
 * Made [lots of playlists](https://open.spotify.com/user/jcgalleg)
-* Placed 3rd in the expert competition bracket at [Battlesnake](https://www.battlesnake.io/) 2018 with my friend [Nick](https://github.com/NicholasKobald)
+* Placed 3rd in the expert competition bracket at [Battlesnake](https://play.battlesnake.com/) 2018 with my friend [Nick](https://github.com/NicholasKobald)
 * Made [hip hop beats](https://soundcloud.com/baba-guano)
 
 (Last Modified: {% last_modified_at %})
