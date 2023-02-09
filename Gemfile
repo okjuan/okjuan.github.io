@@ -11,7 +11,13 @@ source "https://rubygems.org"
 gem "jekyll", "~> 3.8.5"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.0"
+
+# I want minima version 3+, which is not available on
+# reference:
+# - https://github.com/jekyll/minima/issues/454
+# - https://stackoverflow.com/questions/68518590/does-minima-dark-skin-work-on-github-ages
+gem "jekyll-remote-theme"
+gem "jekyll-seo-tag"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
