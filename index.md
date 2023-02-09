@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 title: Hi, I'm Juan
 ---
 
@@ -10,8 +10,6 @@ title: Hi, I'm Juan
 * Software Engineering for Microsoft's newest Office app, Loop
 * Writing and publishing on [okjuan.medium.com](https://okjuan.medium.com) and [okjuan.substack.com](https://okjuan.substack.com)
 * Working on a [suite of tools](https://github.com/okjuan/music-lib-bot) for managing my Spotify music library
-
-(Last Modified: {% last_modified_at %})
 
 ## What I've Done Before
 ### Work Experience
@@ -31,3 +29,5 @@ title: Hi, I'm Juan
 * Making [lots of playlists](https://open.spotify.com/user/jcgalleg).
 * Placed 3rd in the expert competition bracket at [Battlesnake](https://www.battlesnake.io/) 2018 with my friend [Nick](https://github.com/NicholasKobald)
 * Made music, some of which I posted on [SoundCloud](https://soundcloud.com/baba-guano)
+
+(Last Modified: {% last_modified_at %})
