@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hi, I'm Juan
+title: Home
 ---
 
 ## What I'm Doing Now

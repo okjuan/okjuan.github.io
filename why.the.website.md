@@ -1,3 +1,7 @@
+---
+layout: default
+title: Why the Website?
+---
 
 # Why the website?
 
