@@ -4,25 +4,32 @@ title: Home
 ---
 
 ## What I'm Doing Now
-* Software Engineering for Microsoft's newest Office app, Loop
-* Writing and publishing on [okjuan.medium.com](https://okjuan.medium.com) and [okjuan.substack.com](https://okjuan.substack.com)
-* Working on a [suite of tools](https://github.com/okjuan/music-lib-bot) for managing my Spotify music library
+* Software Engineering for [Microsoft Loop](https://www.microsoft.com/en-us/microsoft-loop?ms.url=microsoftcommicrosoft-loop)
+* Writing:
+    * For myself on [okjuan.medium.com](https://okjuan.medium.com) and [okjuan.substack.com](https://okjuan.substack.com) (and here now, I guess)
+    * As a volunteer for [206 Zulu](https://206zulu.org/) e.g. [Station Space Breaks Ground at King Street Station](https://www.206zulu.org/station-space-breaks-ground-at-king-street-station/)
+* Working on a [suite of tools](https://github.com/okjuan/music-lib-bot) for discovering new music and managing my Spotify music library
+* Making [Spotify playlists](https://open.spotify.com/user/jcgalleg)
 
 ## What I've Done Before
+### Education
+* Computer Science at [UVic](https://en.wikipedia.org/wiki/University_of_Victoria). Almost a minor in Math. (2014 - 2019)
+
 ### Work Experience
 * Software Engineer at Microsoft since September 2019
 * Software Engineering Intern at
     * Microsoft, Dynamics 365 team (3 months in 2018)
     * Workday for the MediaCloud team (7 months in 2017)
     * AbeBooks for the Inventory team (4 months in 2016)
-* Taught C & C++ programming in labs for [CSC 116](https://heat.csc.uvic.ca/coview/outline/2018/Fall/CSC/116) and [CSC 111](https://heat.csc.uvic.ca/coview/outline/2019/Spring/CSC/111) at UVic
-
-### Education
-* Computer Science at [UVic](https://en.wikipedia.org/wiki/University_of_Victoria). Almost a minor in Math.
+* Taught C & C++ programming in labs for [CSC 116](https://heat.csc.uvic.ca/coview/outline/2018/Fall/CSC/116) and [CSC 111](https://heat.csc.uvic.ca/coview/outline/2019/Spring/CSC/111) at UVic; grading for [CSC 370](https://heat.csc.uvic.ca/coview/course/2018011/CSC370)
+* Those crucial service jobs that motivate you to not work service jobs
 
 ### Past Projects
-* "Music Knowledge" [app](https://github.com/okjuan/muze)
-* Organizing and leading workshops for the [UVic Web Development and Design club](https://github.com/uvicwebdev)
-* Made [lots of playlists](https://open.spotify.com/user/jcgalleg)
-* Placed 3rd in the expert competition bracket at [Battlesnake](https://play.battlesnake.com/) 2018 with my friend [Nick](https://github.com/NicholasKobald)
+* [_Muze Player_](https://github.com/okjuan/muze), built on top of _Cadence_, solo undergrad research project under supervision of [George Tzanetakis](https://scholar.google.com/citations?user=yPgxxpwAAAAJ&hl=en)
+* [_Cadence_](https://github.com/MIR-Directed-Research/intelligent-music-recommender), a music knowledge base w/ natural language interface built in collaboration with [John Verwolf](https://www.linkedin.com/in/john-verwolf/?originalSubdomain=ca) as an undergrad research project under supervision of [George Tzanetakis](https://scholar.google.com/citations?user=yPgxxpwAAAAJ&hl=en)
+* Other school projects:
+    * [Compiler](https://github.com/okjuan/another-JVM-language) for a useless JVM language
+    * [Median Cut](https://github.com/okjuan/Median-Cut) image compression algorithm
+* Organizing and leading workshops for the [UVic Web Development and Design club](https://github.com/uvicwebdev) like [Working with Web APIs](https://github.com/uvicwebdev/working-with-web-apis) and [Intro to Web Dev](https://github.com/okjuan/Intro-to-Web-Dev)
+* Competing in [Battlesnake](https://play.battlesnake.com/) in 2016, 2017, and 2018, when my friend [Nick](https://github.com/NicholasKobald) and I placed 3rd in the expert competition bracket
 * Made [hip hop beats](https://soundcloud.com/baba-guano)
