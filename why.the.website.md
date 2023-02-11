@@ -11,22 +11,30 @@ Not blogs about software engineering, but blogs about the life of people with ca
 
 Recently been finding some good ones, like [Coding Horror](https://blog.codinghorror.com/on-parenthood/) and [Derek Sivers' blog](https://sive.rs/).
 
-I craved my own Now Page.
+I started craving my own [Now Page](https://nownownow.com/about), even though I don't have people hassling me about what I'm up to.
 
-I also crave something like Andy Matuschak's Evergreen Notes.
+I'd already been craving public [Evergreen Notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) like Andy Matuschak's.
 
-I don't have a clear and distinct reason for this website.
+Both those are just inspirations, not reasons for this website.
 
-But I can try to find one.
+So, why the website?
 
-I can't offer the things these other authors can, because I'm much younger and have much less experience.
+I figure it might be interesting for others to read.
 
-But, for that same reason, I can offer things _they_ cannot.
+For the same reason I love memoirs, I love knowing what people are up to.
 
-I'm early enough in my career that my thoughts might be valuable to others also in the early stages of their professional life.
+How do people live their lives?
 
-My thoughts might also be useful to university students that are preparing for looking past graduation and wondering what they will do.
+Am I missing out on something?
 
-Or perhaps teenagers who are beginning to wonder what they will study in university, what they're going to do when they finish high school.
+What lessons can I learn from people who have had to learn them [the hard way](https://sive.rs/mistake)?
 
-Or even still, maybe kids browsing the web, looking around and absorbing stuff they don't even know how to use yet.
+I'm young, so my library of life lessons is sparse.
+
+But I'm early enough in my career that my thoughts might be valuable to others also in the early stages of their professional life.
+
+To university students who wonder what they will do after graduation.
+
+To teenagers wondering what to study in university, what to do when they finish high school.
+
+Or even still, to precocious kids browsing the web like my girlfriend did, looking around and absorbing stuff they don't even know how to use yet.
