@@ -7,7 +7,7 @@ title: Why the Website?
 
 Ever since my friend Nick recommended [Confessions of a Necromancer](http://hintjens.com/blog:125) to me a few years ago, I've hungered for more like it.
 
-Not blogs about software engineering, but blogs about the life of people with careers in software.
+Not blogs about software engineering, but blogs about the lives of people with careers in software.
 
 Recently been finding some good ones, like [Coding Horror](https://blog.codinghorror.com/on-parenthood/) and [Derek Sivers' blog](https://sive.rs/).
 
@@ -31,10 +31,12 @@ What lessons can I learn from people who have had to learn them [the hard way](h
 
 I'm young, so my library of life lessons is sparse.
 
-But I'm early enough in my career that my thoughts might be valuable to others also in the early stages of their professional life.
+But my thoughts might be valuable --
+
+To others also in the early stages of their professional life.
 
 To university students who wonder what they will do after graduation.
 
 To teenagers wondering what to study in university, what to do when they finish high school.
 
-Or even still, to precocious kids browsing the web like my girlfriend did, looking around and absorbing stuff they don't even know how to use yet.
+To kids browsing the web, looking around and absorbing stuff they don't know how to use yet.
