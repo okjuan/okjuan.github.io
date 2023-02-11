@@ -25,7 +25,7 @@ My life in a nutshell:
 * Software Engineer at Microsoft (since September 2019)
     * Data and telemetry engineering for Excel (1.5 years)
     * Backend development for Dynamics (1 year)
-* CERN openlab summer student (2019)
+* [CERN openlab summer student](https://okjuan.medium.com/insider-the-cern-openlab-summer-program-5e8d5a4abc12) (2019)
 * Software Engineering Intern at
     * Microsoft, Dynamics 365 team (3 months in 2018)
     * Workday for the MediaCloud team (7 months in 2017)
