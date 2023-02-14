@@ -3,20 +3,26 @@ layout: default
 title: About Me
 ---
 
+Hi stranger! My name is Juan. I'm Mexican, naturalised Canadian, born in the mid-nineties.
+
+When I was a kid, I dreamt of playing professional soccer. In high school, I gave up that aspiration for a more realistic one -- becoming a professional musician. My parents shepherded me into university, where I intended to learn how to record and produce music. Instead, I found a new passion: programming. Nowadays I work as a software engineer and pursue my newest passion on the side: writing.
+
+[GitHub](https://github.com/okjuan) -- [Medium](https://okjuan.medium.com) -- [Substack](https://okjuan.substack.com) -- [LinkedIn](https://www.linkedin.com/in/juan-carlos-gallegos-4a25a0b7/) -- [Instagram](https://www.instagram.com/) -- [Spotify](https://open.spotify.com/user/jcgalleg) -- [Goodreads](https://www.goodreads.com/user/show/57048915-juan) -- [Letterboxd](https://letterboxd.com/okjuanito/)
+
 ## Now
 * Software Engineering for [Microsoft Loop](https://www.microsoft.com/en-us/microsoft-loop?ms.url=microsoftcommicrosoft-loop) (since March 2022)
 * Writing:
     * For myself on [okjuan.medium.com](https://okjuan.medium.com) and [okjuan.substack.com](https://okjuan.substack.com) (and here now, I guess)
     * As a volunteer for [206 Zulu](https://206zulu.org/) e.g. [Station Space Breaks Ground at King Street Station](https://www.206zulu.org/station-space-breaks-ground-at-king-street-station/)
 * Developing a [suite of software tools](https://github.com/okjuan/music-lib-bot) for discovering new music and managing my music library
-* Playing soccer, [reading books](https://okjuan.medium.com/feeling-good-about-ditching-books-1c4633fd87f) and articles, making [Spotify playlists](https://open.spotify.com/user/jcgalleg), playing with my pup, watching movies and TV shows.
+* Playing soccer, [reading books](https://okjuan.medium.com/feeling-good-about-ditching-books-1c4633fd87f) and articles, making [Spotify playlists](https://open.spotify.com/user/jcgalleg), watching movies and TV shows, spending time with loved ones (including my pup).
 
 ## Before
 My life in a nutshell:
 * Born and raised in Mexico City
 * Moved to Westchester County, New York for middle school
 * Moved to British Columbia, Canada and lived there for high school and university
-* Living in Seattle since 2019, got my green card in 2022
+* Living in Seattle since 2019.
 
 ### Education
 * Computer Science undergrad at [UVic](https://en.wikipedia.org/wiki/University_of_Victoria). Almost a minor in Math. (2014 - 2019)
