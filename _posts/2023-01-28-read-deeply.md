@@ -4,7 +4,7 @@ title: how to read deeply
 theme: read
 ---
 
-I read with haste, crazed by [the amount of content](./choose-your-next-book.html) I won't get to unless I hurry.
+I read with haste, crazed by [the amount of content](/2023/01/28/choose-your-next-book.html) I won't get to unless I hurry.
 I try to process quickly, see the sense in what the author is saying, and continue to the next thing.
 I bias towards agreement, and don't distinguish carefully my confusion and my disagreement.
 I want to practice something new.
@@ -18,6 +18,6 @@ But it's hard to resolve the tensions that arise from the details.
 It's hard to abide by the cliche of breadth and depth because they present different challenges.
 It can be difficult to cross into new territories, to become a beginner again, to face again the vastness of your ignorance.
 Difficult in a different way is staying put, digging, insisting on uncertain prize.
-This second one feels hard to justify when on a [race against death](./prepare-for-death.html).
+This second one feels hard to justify when on a [race against death](/2023/01/28/prepare-for-death.html).
 It's slow, very slow, unpromising, unencouraging.
 But it's the only way to get to things below the surface.
