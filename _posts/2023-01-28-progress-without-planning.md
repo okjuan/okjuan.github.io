@@ -4,8 +4,8 @@ title: how to progress without planning
 theme: live
 ---
 
-The other day I picked a bunch of books from my library and tried to start.
-I had energy and free time.
+The other day I picked a bunch of books from my library and tried to start each of them.
+I had [energy and free time](https://okjuan.medium.com/is-this-working-2-4343dc4594eb).
 But none stuck.
 Until one did.
 That's the one I read.
