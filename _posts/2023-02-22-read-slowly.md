@@ -24,9 +24,6 @@ We notice how it differs.
 We ask follow-up questions.
 We imagine new things.
 
-Or when something we read provokes us.
-_Wait, how is that possible?_
-
 By slowing down, we encourage more of these interactions.
 If you watch yourself while you read, you can see how much attention you're actually paying.
 You can catch yourself tuning out even as the words still shove through your mind.
