@@ -2,7 +2,6 @@
 layout: post
 title: how to interpret the Seinfeld finale
 theme: watch
-published: false
 ---
 
 Okay, I made it. The last episode of the last season of Seinfeld. I pause it so I can go to the shop for some beer. I like making a deal of these things, even if I'm doing them by myself.
