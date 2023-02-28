@@ -2,7 +2,6 @@
 layout: post
 title: how to pick words
 theme: write
-published: false
 ---
 
 Words sit somewhere on the spectrum between concrete and conceptual.

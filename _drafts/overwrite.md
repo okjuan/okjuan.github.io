@@ -2,7 +2,6 @@
 layout: post
 title: how to overwrite
 theme: write
-published: false
 ---
 
 Transcript from the scene where AJ and Tess are trapped in the dungeon, under the grate.

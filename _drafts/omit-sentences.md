@@ -2,7 +2,6 @@
 layout: post
 title: how to omit sentences
 theme: write
-published: false
 ---
 
 Books about writing can be quite dry. My favorites so far are written with flair. In *Several Short Sentences About Writing*, Klinkerberg says:
