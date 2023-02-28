@@ -2,6 +2,7 @@
 layout: post
 title: how to progress without planning
 theme: live
+permalink: /progress-without-planning
 ---
 
 The other day I picked a bunch of books from my library and tried to start each of them.
