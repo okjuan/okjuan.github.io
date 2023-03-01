@@ -3,12 +3,12 @@ layout: post
 title: how to trust yourself
 theme: live
 permalink: /trust-yourself
+tags: honesty
 ---
 
 Once, when I was a Teaching Assistant for a 3rd year Computer Science course, I had to invigilate a couple students while they took a midterm.
 For reasons deemed legitimate, they had been absent the day the exam was given.
 After time was up, one of the students started a conversation with me and mentioned he had his own cryptocurrency company.
-
 
 I thought it was impressive that he was making time for entrepreneurship.
 But when I mentioned it to my friends, they pointed out that this was just talk.
