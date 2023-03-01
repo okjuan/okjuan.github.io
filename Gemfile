@@ -28,6 +28,8 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
 
   gem "jekyll-last-modified-at"
+
+  gem 'jekyll-tagging'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

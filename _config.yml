@@ -36,6 +36,12 @@ plugins:
 last-modified-at:
     date-format: '%d-%b-%y'
 
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty
+# Sometimes you don’t want tag pages generated for certain pages:
+#ignored_tags: [tags,to,ignore]
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

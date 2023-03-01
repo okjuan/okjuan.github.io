@@ -3,6 +3,7 @@ layout: post
 title: how to read slowly
 theme: read
 permalink: /read-slowly
+tags: zyannya
 ---
 
 Everyone should learn to [leave books unfinished](https://okjuan.medium.com/feeling-good-about-ditching-books-1c4633fd87f).
