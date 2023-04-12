@@ -10,5 +10,5 @@ Willpower is like [the secret gas](https://youtu.be/TuEdU_lrtZk) in your car tha
 Except it never runs out.
 Mind over matter.
 
-But isn't the heroic surge of energy released from this secret mental trapdoor merely motivation?
-Sure, you've had to rummage for it and claw it out, but what is it if not motivation?
+But isn't the heroic surge of energy released from this mental trapdoor merely motivation?
+Sure, you've had to rummage and claw for it, but what is it if not motivation?
