@@ -1,7 +1,7 @@
 ---
 layout: post
 title: how to progress without planning
-theme: live
+theme: work
 permalink: /progress-without-planning
 ---
 
