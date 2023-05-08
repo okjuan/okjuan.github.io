@@ -36,6 +36,13 @@ plugins:
 last-modified-at:
     date-format: '%d-%b-%y'
 
+defaults:
+  - scope:
+      type: tags  # select all tag pages
+    values:
+      layout: tag_page
+      permalink: tags/:tag/
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
