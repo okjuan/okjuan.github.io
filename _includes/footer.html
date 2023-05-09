@@ -5,22 +5,12 @@
 
       <div class="footer-col-wrapper">
         <div class="footer-col">
+          <p><a href="{% post_url 2023-02-25-come.up.with.ideas %}">What is this website?</a></p>
+        </div>
+        <div class="footer-col">
           <p class="feed-subscribe">
             If you want to read more of my writing, check out <a href="https://okjuan.medium.com/">my Medium page</a> and <a href="https://okjuan.substack.com/">my Substack account</a>.
           </p>
-        {%- if site.author %}
-          <ul class="contact-list">
-            {% if site.author.name -%}
-              <li class="p-name">{{ site.author.name | escape }}</li>
-            {% endif -%}
-            {% if site.author.email -%}
-              <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-            {%- endif %}
-          </ul>
-        {%- endif %}
-        </div>
-        <div class="footer-col">
-          <p>{{ site.description | escape }}</p>
         </div>
       </div>
 
