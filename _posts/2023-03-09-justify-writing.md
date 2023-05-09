@@ -3,7 +3,7 @@ layout: post
 title: how to justify writing
 theme: write
 permalink: /justify-writing
-tags: mediums
+tags: mediums art
 ---
 
 Writing [The Virtual Book](https://okjuan.medium.com/the-virtual-book-part-1-782ccd4cc360) forced me to ask: when _is_ writing the best medium?

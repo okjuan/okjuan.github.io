@@ -3,7 +3,7 @@ layout: post
 title: how to motivate yourself
 theme: work
 permalink: /motivate-yourself
-tags: psychology
+tags: psychology motivation
 ---
 
 The idea is that, through sheer thought, you can mobilize a body sapped of motivation.
