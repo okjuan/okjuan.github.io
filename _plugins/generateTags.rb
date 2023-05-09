@@ -24,7 +24,8 @@ module SamplePlugin
       # Initialize data hash with a key pointing to all posts under current tag.
       # This allows accessing the list in a template via `page.linked_docs`.
       @data = {
-        'linked_docs' => posts
+        'linked_docs' => posts,
+        'tag' => tag
       }
 
       # Look up front matter defaults scoped to type `tags`, if given key
