@@ -17,6 +17,7 @@ You move as you would if there wasn't a writer tagging along.
 What's more, there is no extra gear or logistics to obstruct encounters with the landscape and your fellow humans.
 The writer and all others are freed into the experience.
 
+The experience is different for the audience, too.
 Writing sacrifices the sensorial experience for one deeper into the realm of imagination.
 The action is staged entirely in the mind.
 The reduction of reality into abstract symbols is both a restriction and a release.
