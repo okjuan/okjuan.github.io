@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    background-color: #fef7f2;
+    color: #757272;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color:#222;
+}
+
+a {
+    color: #480e0e;
+}
+
+a:hover, a:focus {
+    color:#5d5d5d;
+    font-weight: bolder;
+}
+
+a small {
+    color: #480e0e;
+}
+
+a:hover small {
+    color:#5d5d5d;
+    font-weight: bolder;
+}
