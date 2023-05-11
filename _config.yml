@@ -14,11 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# Build settings
-markdown: kramdown
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-remote-theme
 
-remote_theme: jekyll/minima
-show_excerpts: true
+title: okJuan
+description: Mexican-born Canadian-naturalised American resident developing software for a living and writing as a personal project.
+logo: juan.redlight.profilePicture.jpeg
