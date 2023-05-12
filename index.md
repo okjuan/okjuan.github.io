@@ -4,7 +4,7 @@ layout: default
 
 # Projects
 ## Writing
-I started getting into writing in 2020. Since then, I've set up multiple publishing channels for my various writing projects:
+I started getting into writing in 2019. Since then, I've set up multiple publishing channels for my various writing projects:
 - Non-fiction essays on [my Medium page](https://okjuan.medium.com/).
 - Creative writing on [my Substack page](https://okjuan.substack.com/).
 - Mini-essays and musings on [How To](https://okjuan.github.io/howto).
