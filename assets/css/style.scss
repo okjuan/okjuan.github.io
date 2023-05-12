@@ -3,29 +3,38 @@
 
 @import "{{ site.theme }}";
 
+///* Color Palette from Image */
+//--light-orange: #FED4AFff;
+//--black-bean: #270203ff;
+//--black: #020001ff;
+//--fire-engine-red: #D20428ff;
+//--rosewood: #700010ff;
+
 body {
-    background-color: #fef7f2;
-    color: #757272;
+    background: linear-gradient(90deg, rgb(241, 214, 188), rgb(243, 223, 207));
+    color: #270203ff;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color:#222;
+    color:#270203ff;
 }
 
 a {
-    color: #480e0e;
+    color: #700010ff;
+    font-weight: bold;
 }
 
 a:hover, a:focus {
-    color:#5d5d5d;
+    color:#D20428ff;
     font-weight: bolder;
 }
 
 a small {
-    color: #480e0e;
+    color: #700010ff;
+    font-weight: bold;
 }
 
 a:hover small {
-    color:#5d5d5d;
+    color:#D20428ff;
     font-weight: bolder;
 }
