@@ -12,5 +12,8 @@ I started getting into writing in 2019. Since then, I've set up multiple publish
 
 ## Coding
 - [Music Lib Bot](https://github.com/okjuan/music-lib-bot): a suite of tools for managing my music library on Spotify.
-- [Song Scrounger](https://github.com/okjuan/song-scrounger): a program that generates Spotify playlists from text. Now subsumed into Music Lib Bot.
-- [Muze Player](https://github.com/okjuan/muze): a Spotify web player that lets you steer song recommendations based on music metadata like acousticness, instrumentalness, popularity, etc.
+- (past) [Song Scrounger](https://github.com/okjuan/song-scrounger): a program that generates Spotify playlists from text. Now subsumed into Music Lib Bot.
+- (past) [Muze Player](https://github.com/okjuan/muze): a Spotify web player that lets you steer song recommendations based on music metadata like acousticness, instrumentalness, popularity, etc.
+
+## Music
+- (past) In high school, I got into making hip hop beats and posting them on [SoundCloud](https://soundcloud.com/baba-guano). (That was the first step on the path that led me to studying Computer Science in university.)
