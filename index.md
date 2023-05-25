@@ -17,3 +17,5 @@ I started getting into writing in 2019. Since then, I've set up multiple publish
 
 ## Music
 - (past) In high school, I got into making hip hop beats and posting them on [SoundCloud](https://soundcloud.com/baba-guano). (That was the first step on the path that led me to studying Computer Science in university.)
+
+_Updated: {% last_modified_at %}_
