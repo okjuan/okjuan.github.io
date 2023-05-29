@@ -8,7 +8,7 @@ permalink: /projects/
 I started getting into writing in 2019. Since then, I've set up multiple publishing channels for my various writing projects:
 - Non-fiction essays on [my Medium page](https://okjuan.medium.com/).
 - Creative writing on [my Substack page](https://okjuan.substack.com/).
-- Mini-essays and musings on [How To](https://okjuan.github.io/howto).
+- Mini-essays, musings, and notes on [How To](https://okjuan.github.io/howto).
 - Articles for [206 Zulu](https://206zulu.org/), Seattle's chapter of the [Zulu Union](https://www.thezuluunion.com/). I published [my first article](https://www.206zulu.org/station-space-breaks-ground-at-king-street-station/) in November '22.
 
 ## Coding
