@@ -11,7 +11,7 @@ layout: default
 
 ## Coding
 - [Music Lib Bot](https://github.com/okjuan/music-lib-bot): a suite of tools for managing my Spotify library.
-- [Muze Player](https://github.com/okjuan/muze) (*past*): a Spotify web player that lets you steer song recommendations based on music metadata like acousticness, instrumentalness, popularity, etc.
+- [Muze Player](https://github.com/okjuan/muze) (*past*): interactive song recommender built on Spotify's Web API and Web Playback SDK.
 
 ## Music
 - [Spotify](https://open.spotify.com/user/jcgalleg): playlists I've been making since 2015 or so.
