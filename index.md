@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# My Projects
+# Personal Projects
 ## Writing
 - [Medium](https://okjuan.medium.com/): non-fiction essays.
 - [Substack](https://okjuan.substack.com/): creative writing.
@@ -16,3 +16,9 @@ layout: default
 ## Music
 - [Spotify](https://open.spotify.com/user/jcgalleg): playlists I've been making since 2015 or so.
 - [SoundCloud](https://soundcloud.com/baba-guano) (*past*): beats I made between 2012-2016 using Native Instruments Maschine.
+
+# About Me
+
+I'm a software engineer working on [Microsoft Loop](https://www.microsoft.com/en-us/microsoft-loop). I've been at Microsoft since I graduated from university in 2019 and have been working on Loop since March 2022.
+
+I love music, [books](https://okjuan.me/vbook/tags/books/), soccer, [writing](https://okjuan.me/vbook/tags/writing/).
