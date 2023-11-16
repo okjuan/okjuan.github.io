@@ -6,7 +6,7 @@ layout: default
 ## Writing
 - [Medium](https://okjuan.medium.com/): non-fiction essays.
 - [Substack](https://okjuan.substack.com/): creative writing.
-- [okjuan.me/vbook](https://okjuan.github.io/vbook): a [non-monolithic](https://okjuan.me/vbook/virtual-book) writing project.
+- [okjuan.me/vbook](https://okjuan.github.io/vbook): my [virtual book](https://okjuan.me/vbook/virtual-book); a [digital garden](https://nesslabs.com/digital-garden-set-up).
 - [206 Zulu](https://www.206zulu.org/author/juan-carlos-gallegos/): articles for Seattle's chapter of the [Zulu Union](https://www.thezuluunion.com/).
 
 ## Coding
