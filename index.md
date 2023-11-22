@@ -24,4 +24,4 @@ I love music, [books](https://okjuan.me/vbook/tags/books/), soccer, [writing](ht
 
 ## Now
 
-What I'm up to now.
+What I'm up to [now](https://okjuan.me/vbook/now-nov-21-2023).
