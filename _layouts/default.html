@@ -23,11 +23,12 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
           <br />
-          <br />
         {% endif %}
 
-        <p>{{ site.description }}</p>
-        <em>Updated: {% last_modified_at %}</em>
+        {% if site.description %}
+          <p>{{ site.description }}</p>
+        {% endif %}
+        <em>Site updated: {% last_modified_at %}</em>
       </header>
       <section>
 
