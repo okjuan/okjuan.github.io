@@ -5,7 +5,7 @@ layout: default
 ## My Writing
 - [Medium](https://okjuan.medium.com/): non-fiction essays.
 - [Substack](https://okjuan.substack.com/): creative writing.
-- [okjuan.me/vbook](https://okjuan.github.io/vbook): now putting all my public writing in my [vbook](https://okjuan.me/vbook/virtual-book).
+- [okjuan.me/vbook](https://okjuan.github.io/vbook): an explorable collection of all my writing.
 - [206 Zulu](https://www.206zulu.org/author/juan-carlos-gallegos/): articles for Seattle's chapter of the Zulu Union.
 
 ## My Programs
