@@ -9,7 +9,7 @@ layout: default
 - [206 Zulu](https://www.206zulu.org/author/juan-carlos-gallegos/): articles for Seattle's chapter of the Zulu Union.
 
 ## My Programs
-- [Muze Radio](https://github.com/okjuan/muze-radio): interactive song recommender built on Spotify's Web API and Web Playback SDK. Available at [okjuan.me/muze-radio](https://okjuan.me/muze-radio).
+- [Muze Radio](https://github.com/okjuan/muze-radio): interactive song recommender built on Spotify's Web API and Web Playback SDK. Beta [available](https://okjuan.me/muze-radio) for select few.
 - [Music Lib Bot](https://github.com/okjuan/music-lib-bot): a suite of tools for managing my Spotify library.
 
 ## My Music
