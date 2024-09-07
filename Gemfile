@@ -27,6 +27,8 @@ group :jekyll_plugins do
   gem "jekyll-remote-theme"
   gem "jekyll-seo-tag"
 
+  # TODO: address build incompatibility with posix-spawn
+  # An error occurred while installing posix-spawn (0.3.15), and Bundler cannot continue.
   gem "jekyll-last-modified-at"
 end
 
