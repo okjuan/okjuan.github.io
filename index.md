@@ -18,7 +18,7 @@ layout: default
 
 ## Me
 
-I was born and raised in Mexico City, became a Canadian citizen in 2015, and moved to the US in 2019 to work at Microsoft after graduating from university.
+I was born and raised in Mexico City, became a Canadian citizen in 2015, and after graduating university in 2019 I moved to the US to work at Microsoft.
 I've been working as a software engineer on [Microsoft Loop](https://www.microsoft.com/en-us/microsoft-loop) since early 2022.
 I love software, music, [books](https://okjuan.me/vbook/tags/books/), soccer, [writing](https://okjuan.me/vbook/tags/writing/).
 
