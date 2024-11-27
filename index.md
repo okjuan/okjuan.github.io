@@ -9,9 +9,9 @@ I love software, music, books, soccer, writing, coffee, & many other things.
 I was born in Mexico City and grew up there playing soccer obsessively.
 The summer I turned eleven, my family moved to the suburbs of New York and three years later we moved to Vancouver Island.
 
-During high school, I learned to play guitar, started writing songs, and got into [making beats](https://soundcloud.com/baba-guano) on the Maschine MK2 by Native Instruments.
-My new obsession led me to enroll in [Music & Computer Science](https://www.uvic.ca/finearts/music/undergrad/programs/mtech/index.php), an unusual "combined major," at the University of Victoria with aspirations to learn how to record and produce music.
-But my plans were foiled by the discovery of my new obsession: [programming](https://okjuan.me/vbook/career).
+During high school, I learned to play guitar, began writing songs, and learned to [make beats](https://soundcloud.com/baba-guano) using Maschine MK2 by Native Instruments.
+My new obsession led me to enroll in [Music & Computer Science](https://www.uvic.ca/finearts/music/undergrad/programs/mtech/index.php), an unusual "combined major" at the University of Victoria, with aspirations to learn how to record and produce music.
+But my plans were derailed by the discovery of my new obsession: [programming](https://okjuan.me/vbook/career).
 
 My [career began](https://okjuan.me/vbook/career-2) with Software Engineering co-ops at local companies in Victoria, which then led me to an internship at Microsoft in the summer of 2018 and a fulltime position starting in September of 2019.
 Discontentment at my first role at Microsoft and spare time at home during the Covid-19 pandemic [spurred me](https://okjuan.me/vbook/boredom) to pursue personal projects in programming [related t](https://github.com/okjuan/music-lib-bot)[o music](https://github.com/okjuan/muze-radio) and in writing, a latent interest of mine.
