@@ -35,4 +35,4 @@ In this new job I finally got that feeling that _I could see myself working on t
 I have been working happily on Microsoft Loop since early 2022.
 
 I'm on an indefinite hiatus from making music, but I still continuously make playlists [on Spotify](https://open.spotify.com/user/jcgalleg).
-In life in general, [this is what I'm up to now](https://okjuan.me/vbook/now).
+For what I'm up to in life in general, see [/now](https://okjuan.me/vbook/now).
