@@ -13,6 +13,9 @@
 body {
     background: linear-gradient(90deg, rgb(241, 214, 188), rgb(243, 223, 207));
     color: #270203ff;
+    padding: 0px;
+    padding-top: 2em;
+    padding-bottom: 2em;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -41,4 +44,26 @@ a:hover small {
 
 hr {
     background: #270203ff;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.left-column {
+    display: flex;
+    flex-direction: column;
+    flex: 4;
+    margin-right: 5em;
+}
+
+#hero, #links {
+    box-sizing: border-box;
+    padding-bottom: 2em;
+}
+
+#main-content {
+    flex: 6;
+    box-sizing: border-box;
 }

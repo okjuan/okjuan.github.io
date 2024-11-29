@@ -17,19 +17,42 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+      <div class="left-column">
+        <div id="hero">
+          <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-          <br />
-        {% endif %}
+          {% if site.logo %}
+            <img src="{{site.logo | relative_url}}" alt="Logo" />
+            <br />
+          {% endif %}
 
-        {% if site.description %}
-          <p>{{ site.description }}</p>
-        {% endif %}
-      </header>
-      <section>
+          {% if site.description %}
+            <p>{{ site.description }}</p>
+          {% endif %}
+        </div>
+        <div id="links">
+          <h3>Writing</h3>
+          <ul>
+              <li><a href="https://okjuan.me/vbook/">/vbook</a></li>
+              <li><a href="https://okjuan.medium.com/">Medium</a></li>
+              <li><a href="https://okjuan.substack.com/">Substack</a></li>
+              <li><a href="https://www.206zulu.org/author/juan-carlos-gallegos/">206 Zulu</a></li>
+          </ul>
+          <h3>Projects</h3>
+          <ul>
+              <li><a href="https://okjuan.me/muze-radio">/muze-radio</a></li>
+              <li><a href="https://pypi.org/project/songscrounger/">Song Scrounger Python package</a></li>
+              <li><a href="https://github.com/okjuan">GitHub</a></li>
+              <li><a href="https://open.spotify.com/user/jcgalleg">Spotify</a></li>
+              <li><a href="https://soundcloud.com/baba-guano">SoundCloud</a></li>
+          </ul>
+          <h3>Other</h3>
+          <ul>
+              <li><a href="https://www.linkedin.com/in/juan-carlos-gallegos-4a25a0b7">LinkedIn</a></li>
+          </ul>
+        </div>
+      </div>
+      <div id="main-content">
 
         {{ content }}
 
@@ -37,28 +60,7 @@
 
         <em>Updated {% last_modified_at %B %d, %Y %}</em>
 
-      </section>
-      <footer>
-        <h3>Writing</h3>
-        <ul>
-            <li><a href="https://okjuan.me/vbook/">/vbook</a></li>
-            <li><a href="https://okjuan.medium.com/">Medium</a></li>
-            <li><a href="https://okjuan.substack.com/">Substack</a></li>
-            <li><a href="https://www.206zulu.org/author/juan-carlos-gallegos/">206 Zulu</a></li>
-        </ul>
-        <h3>Projects</h3>
-        <ul>
-            <li><a href="https://okjuan.me/muze-radio">/muze-radio</a></li>
-            <li><a href="https://pypi.org/project/songscrounger/">Song Scrounger Python package</a></li>
-            <li><a href="https://github.com/okjuan">GitHub</a></li>
-            <li><a href="https://open.spotify.com/user/jcgalleg">Spotify</a></li>
-            <li><a href="https://soundcloud.com/baba-guano">SoundCloud</a></li>
-        </ul>
-        <h3>Other</h3>
-        <ul>
-            <li><a href="https://www.linkedin.com/in/juan-carlos-gallegos-4a25a0b7">LinkedIn</a></li>
-        </ul>
-      </footer>
+      </div>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
