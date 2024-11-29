@@ -67,3 +67,22 @@ hr {
     flex: 6;
     box-sizing: border-box;
 }
+
+@media print, screen and (max-width: 960px) {
+    .body {
+        padding: 50px;
+    }
+
+    .wrapper {
+        flex-direction: column;
+        padding: 1em;
+    }
+
+    .left-column {
+        margin-right: 0;
+    }
+
+    #links {
+        display: none;
+    }
+}
