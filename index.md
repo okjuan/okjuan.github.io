@@ -12,7 +12,7 @@ I love software, writing, music, books, soccer, coffee, & many other things.
 
 I was born in Mexico City and grew up there playing soccer obsessively.
 The summer I turned eleven, my family moved to the suburbs of New York and three years later we moved to Vancouver Island.
-These opportunities in my early life allowed me to develop native proficiency in Spanish & English and gave me an intuition for cultural subtleties that differ across North America.
+These opportunities in my early life allowed me to develop native proficiency in Spanish & English as well as an intuition for cultural subtleties that differ across North America.
 
 During high school, I learned to play guitar, write songs, and [make music](https://soundcloud.com/baba-guano) using the Maschine MK2 by Native Instruments.
 My new obsession led me to enroll in [Music & Computer Science](https://www.uvic.ca/finearts/music/undergrad/programs/mtech/index.php), an unusual "combined major" at the University of Victoria, with aspirations to learn how to record and produce music.
