@@ -8,6 +8,8 @@ Hi 👋 I'm Juan.
 I work as a Software Engineer on Microsoft Loop.
 I love software, writing, music, books, soccer, coffee, & many other things.
 
+My main personal project [these days](https://okjuan.me/vbook/now) is designing, building, and writing for [okjuan.me/vbook](https://okjuan.me/vbook/), a [blog of sorts](https://okjuan.me/vbook/what).
+
 ### About me in a couple minutes
 
 I was born in Mexico City and grew up there playing soccer obsessively.
