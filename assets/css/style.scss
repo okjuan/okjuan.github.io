@@ -8,10 +8,10 @@
 //--black-bean: #270203ff;
 //--black: #020001ff;
 //--fire-engine-red: #D20428ff;
-//--rosewood: #700010ff;
+//--rosewood: rgb(62, 62, 251);
 
 body {
-    background: linear-gradient(90deg, rgb(241, 214, 188), rgb(243, 223, 207));
+    background: linear-gradient(90deg, rgb(180, 203, 208), rgb(243, 242, 242));
     color: #270203ff;
     padding: 0px;
     padding-top: 2em;
@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-    color: #700010ff;
+    color: rgb(24, 24, 101);
     font-weight: bold;
 }
 
@@ -33,7 +33,7 @@ a:hover, a:focus {
 }
 
 a small {
-    color: #700010ff;
+    color: rgb(24, 24, 101);
     font-weight: bold;
 }
 
